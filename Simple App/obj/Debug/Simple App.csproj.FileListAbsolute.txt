@@ -1,0 +1,10 @@
+C:\Test1\Simple App\bin\Debug\Simple App.exe.config
+C:\Test1\Simple App\bin\Debug\Simple App.exe
+C:\Test1\Simple App\bin\Debug\Simple App.pdb
+C:\Test1\Simple App\obj\Debug\Simple App.csprojAssemblyReference.cache
+C:\Test1\Simple App\obj\Debug\Simple_App.Form1.resources
+C:\Test1\Simple App\obj\Debug\Simple_App.Properties.Resources.resources
+C:\Test1\Simple App\obj\Debug\Simple App.csproj.GenerateResource.cache
+C:\Test1\Simple App\obj\Debug\Simple App.csproj.CoreCompileInputs.cache
+C:\Test1\Simple App\obj\Debug\Simple App.exe
+C:\Test1\Simple App\obj\Debug\Simple App.pdb
